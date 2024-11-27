@@ -1,7 +1,3 @@
-Sure! Below is a sample `README.md` for the application. It provides an overview, setup instructions, usage, and more.
-
----
-
 # **User Avatar Service API**
 
 This is a backend service for fetching user avatars based on their user identifier. The service checks various conditions and returns the corresponding avatar image URL, either from a database, an external API, or a default fallback.
@@ -151,4 +147,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This `README.md` provides a comprehensive overview of the project, how to set it up, and how to interact with the API. Let me know if you need more details or any modifications!
+This `README.md` provides a comprehensive overview of the project, how to set it up, and how to interact with the API.
